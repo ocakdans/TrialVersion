@@ -7,6 +7,7 @@ public class Class01 {
 		
 		System.out.println("Hello World.");
 		System.out.println("Hello everone");
+		System.out.println("firts line with ocakdans");
 
 	}
 
